@@ -1,13 +1,13 @@
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/elephant.txt
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/programs.sh
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/pacmanupdate.sh
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/gitsetup.sh
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/zshinstall.sh
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/zshrc
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/lightdm
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/optionalconfig.sh
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/pacman.conf
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/zshasciiart
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/elephant.txt
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/programs.sh
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/pacmanupdate.sh
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/gitsetup.sh
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/zshinstall.sh
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/zshrc
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/lightdm
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/optionalconfig.sh
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/pacman.conf
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/zshasciiart
 cat elephant.txt
 chmod +x programs.sh
 chmod +x pacmanupdate.sh
