@@ -1,6 +1,6 @@
 #!/bin/bash
 pacman -S --noconfirm wget
-wget https://raw.githubusercontent.com/myles1509/CAIS/master/peng2.txt
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/peng2.txt
 cat peng2.txt
 echo
 read -p 'Root Password: ' RootPass

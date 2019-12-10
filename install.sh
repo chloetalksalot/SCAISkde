@@ -1,6 +1,6 @@
 #!/bin/bash
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/peng1.txt
-wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/peng2.txt
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/peng1.txt
+wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/peng2.txt
 cat peng1.txt
 echo "This will fully reset linux"
 echo "Ensure ethernet is connected"
@@ -8,7 +8,7 @@ read -p "Are you positive?" -n 1 -r Reply
 echo
 if [[ $Reply =~ ^[Yy]$ ]]
 then
-  wget https://raw.githubusercontent.com/myles1509/SCAISkde/blob/master/installchroot.sh
+  wget https://raw.githubusercontent.com/myles1509/SCAISkde/master/installchroot.sh
   chmod +x *.sh
   (
   echo d
