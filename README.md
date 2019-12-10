@@ -7,7 +7,7 @@ Built for my specific system.
 
 Download install.sh with wget on arch install medium
 
-[wget https://raw.githubusercontent.com/CAIS/master/install.sh]
+[wget https://raw.githubusercontent.com/SCAISkde/master/install.sh]
 
 Give it permissions
 
@@ -20,7 +20,7 @@ Run it
 
 After install: boot into desktop and wget installpost.sh
 
-[wget https://raw.githubusercontent.com/CAIS/master/installpost.sh]
+[wget https://raw.githubusercontent.com/SCAISkde/master/installpost.sh]
 
 Give it permissions
 
